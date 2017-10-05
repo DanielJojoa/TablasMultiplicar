@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Multiplication Tables</string>
+    <string name="acercaDe">University of Nariño   Developed by  :José Daniel Jojoa</string>
+    <string name="btn_acerca">about</string>
+    <string name="acierto">good, you got it right</string>
+    <string name="aciertos">your score is :</string>
+    <string name="error">Enter your answer</string>
+    <string name="fallo">Wrong, the answer is :</string>
+    <string name="fin">Congratulations, you have finished  your task</string>
+    <string name="multiplicar">"Multiply  : "</string>
+</resources>

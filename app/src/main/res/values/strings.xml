@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TablasMultiplicar</string>
+    <string name="acercaDe">
+        Universidad  De Nariño
+        Desarrollado por : José Daniel Jojoa Insandará
+    </string>
+    <string name="btn_acerca">Acerca de</string>
+    <string name="multiplicar">Multplicar :</string>
+    <string name="aciertos">Tu número de aciertos es : </string>
+    <string name="error">Ingresa tu respuesta</string>
+    <string name="acierto">bien¡¡¡ Acertaste</string>
+    <string name="fallo">Fallaste, la respuesta es :</string>
+    <string name="fin">Felicidades¡¡, terminaste tu reto </string>
+
+</resources>
